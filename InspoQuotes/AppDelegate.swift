@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  InspoQuotes
 //
-//  Created by Angela Yu on 18/08/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Carson Buckley on 03/19/2020.
+//  Copyright © 2020 Carson Buckley. All rights reserved.
 //
 
 import UIKit
